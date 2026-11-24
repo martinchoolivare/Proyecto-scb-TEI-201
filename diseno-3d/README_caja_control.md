@@ -11,9 +11,9 @@
 | `SCB_caja_control_gemelo.step` | Gemelo de la caja sola: base, tapa y los volúmenes del Arduino UNO, la placa perforada con borneras y condensador, el HX711 y el MT3608 |
 | `SCB_componentes_externos.step` | Biblioteca de componentes sueltos (MG996R, SG90, HC-SR04, inductivo M12, capacitivo M18, celda de 1 kg, FSR-402 y fuente S-50-5). Ya van montados en el gemelo completo |
 | `planos/planos_caja_control.pdf` | 3 hojas A3 a escala 1:1 de la caja: base, tapa y ensamble (vistas ortogonales, cotas, tolerancias, lista de piezas y cómo reparar) |
-| `renders/` | `gemelo_completo*.png` (sistema completo, caja abierta y vista trasera) y `caja_*.png` (exterior, interior y explosionada), en PNG con fondo transparente |
+| `renders/` | `gemelo_completo*.png` (sistema completo, caja abierta y vista trasera) y `caja_*.png` (exterior, interior y explosionada), en PNG con fondo transparente; `SCB_gemelo_completo_giro.mp4`, video de 12 s del gemelo girando |
 | `stl/` | `caja_base.stl` y `caja_tapa.stl`, listos para imprimir (caben en una cama de 160 mm) |
-| `fuente/` | Scripts de CadQuery: `caja_control.py`, `planos.py` y `render_caja.py` para la caja; `gemelo_completo.py` y `render_gemelo.py` para el gemelo completo |
+| `fuente/` | Scripts de CadQuery: `caja_control.py`, `planos.py` y `render_caja.py` para la caja; `gemelo_completo.py`, `render_gemelo.py` y `video_giro.py` para el gemelo completo |
 
 ## Gemelo completo
 
