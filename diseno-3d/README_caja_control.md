@@ -10,6 +10,7 @@
 | `modelo_3d/` | Modelo del robot: piezas impresas del brazo, la pinza, la estación y la base (STL y STEP), ensambles, planos de armado y scripts. Ver [`modelo_3d/README.md`](modelo_3d/README.md) |
 | `SCB_caja_control_gemelo.step` | Gemelo de la caja sola: base, tapa y los volúmenes del Arduino UNO, la placa perforada con borneras y condensador, el HX711 y el MT3608 |
 | `SCB_componentes_externos.step` | Biblioteca de componentes sueltos (MG996R, SG90, HC-SR04, inductivo M12, capacitivo M18, celda de 1 kg, FSR-402 y fuente S-50-5). Ya van montados en el gemelo completo |
+| `planos/Planos_tecnicos_SCB.pdf` | Todos los planos en un PDF de 20 páginas con índice: plano general, brazo v3, estación de sensado y caja de control |
 | `planos/planos_caja_control.pdf` | 3 hojas A3 a escala 1:1 de la caja: base, tapa y ensamble (vistas ortogonales, cotas, tolerancias, lista de piezas y cómo reparar) |
 | `renders/` | `gemelo_completo*.png` (sistema completo, caja abierta y vista trasera) y `caja_*.png` (exterior, interior y explosionada), en PNG con fondo transparente; `SCB_gemelo_completo_giro.mp4`, video de 12 s del gemelo girando |
 | `stl/` | `caja_base.stl` y `caja_tapa.stl`, listos para imprimir (caben en una cama de 160 mm) |
